@@ -1,2 +1,2 @@
 # SwiftUISample
-Sample SwiftUI app
+Sample SwiftUI app no content
